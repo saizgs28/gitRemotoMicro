@@ -1,9 +1,11 @@
 comeflores
 aceitunas
+<<<<<<< HEAD
 amapolas
 otro otro
 pistachos y mas
+=======
 amapolas y patatuelas
 otro
 anacardos
-
+>>>>>>> 5504f52 (Modificar snacks vegetarianos, add mas)
