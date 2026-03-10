@@ -2,3 +2,4 @@ aceitunas
 cacahuetes
 patatuelas
 anchoas
+gambas
